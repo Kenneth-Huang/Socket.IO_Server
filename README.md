@@ -1,0 +1,1 @@
+This is a reattime server built with Socket.IO and Express.js. Please see https://www.valentinog.com/blog/socket-io-node-js-react/ for more detail.
